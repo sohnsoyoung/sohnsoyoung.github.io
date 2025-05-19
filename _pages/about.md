@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://cee.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, Advised by Prof. <a href="https://cee.illinois.edu/directory/profile/barros" style="color: #7289da; text-decoration: none;">Ana P. Barros</a>. Here is my <a href="assets/cv_soyoungsohn.pdf" style="color: #7289da; text-decoration:none">CV</a>.
+I am a PhD student at <a href="https://cee.illinois.edu/" style="color: #FF5F05; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, Advised by Prof. <a href="https://cee.illinois.edu/directory/profile/barros" style="color: #7289da; text-decoration: none;">Ana P. Barros</a>. Here is my <a href="assets/cv_soyoungsohn.pdf" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interests include:
 - Hydrology model
@@ -34,13 +34,13 @@ My primary research interests include:
 <span style="color:purple">**Communications Earth and Environment**</span> 
 
 # 📖 Educations
-- *2024.08 - Present*, Ph.D. in CEE, <a href="https://cee.illinois.edu/" style="color: #7289da; text-decoration: none;">UIUC</a>.
-- *2021.03 - 2023.02*, M.S. in Civil and Environmental Engineering, <a href="https://hecl.yonsei.ac.kr" style="color: #7289da; text-decoration: none;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/people.html" style="color: #7289da; text-decoration: none;">Prof. Yeonjoo Kim</a>)
-- *2017.03 - 2021.02*, B.S. in Civil and Environmental Engineering, <a href="https://cee.yonsei.ac.kr" style="color: #7289da; text-decoration: none;">Yonsei University</a>.
+- *2024.08 - Present*, Ph.D. in CEE, <a href="https://cee.illinois.edu/" style="color: #FF5F05; text-decoration: none;">UIUC</a>.
+- *2021.03 - 2023.02*, M.S. in Civil and Environmental Engineering, <a href="https://hecl.yonsei.ac.kr" style="color: #4169E1; text-decoration: none;">Yonsei University</a>. (Advisor: <a href="https://hecl.yonsei.ac.kr/people.html" style="color: #4169E1; text-decoration: none;">Prof. Yeonjoo Kim</a>)
+- *2017.03 - 2021.02*, B.S. in Civil and Environmental Engineering, <a href="https://cee.yonsei.ac.kr" style="color: #4169E1; text-decoration: none;">Yonsei University</a>.
 
 # 💻 Work Experience
-- *2023.03 - 2023.07*, Post Masters Researcher at  <a href="https://hecl.yonsei.ac.kr" style="color: #7289da; text-decoration: none;">Yonsei University</a>, HECL Lab (Hydrology and EcoClimate Lab), Seoul, Korea. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #7289da; text-decoration: none;">Prof. Yeonjoo Kim</a>)
+- *2023.03 - 2023.07*, Post Masters Researcher at  <a href="https://hecl.yonsei.ac.kr" style="color: #7289da; text-decoration: none;">Yonsei University</a>, HECL Lab (Hydrology and EcoClimate Lab), Seoul, Korea. (Advisor: <a href="https://hecl.yonsei.ac.kr/" style="color: #4169E1; text-decoration: none;">Prof. Yeonjoo Kim</a>)
 
 
-# 🎖 Honors and Awards
-- ..
+<!-- # 🎖 Honors and Awards -->
+<!-- - .. -->
